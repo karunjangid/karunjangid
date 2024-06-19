@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lavi Singodiya</h1>
+<h1 align="center">Hi 👋, I'm Karun Jangid</h1>
 <h3 align="center">A passionate Developer</h3>
 
 # 💫 About Me:
